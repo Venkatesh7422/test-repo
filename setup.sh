@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-i am practicing in my office 
+echo "i am practicing in my office"  
