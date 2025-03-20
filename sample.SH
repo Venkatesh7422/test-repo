@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-I am learning devops+aws with shiva
+echo "I am learning devops+aws with shiva"
